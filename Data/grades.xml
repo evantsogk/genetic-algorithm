@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<grades>
+    <grade>
+	    <name>A</name>
+	    <classrooms>3</classrooms>
+	</grade>
+	<grade>
+	    <name>B</name>
+	    <classrooms>3</classrooms>
+	</grade>
+	<grade>
+	    <name>C</name>
+	    <classrooms>3</classrooms>
+	</grade>
+</grades>
+
